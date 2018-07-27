@@ -9,7 +9,7 @@ define("CARPETA_RECURSOS", $proyecto . 'vista/');
 define("CARPETA_IMG", $proyecto . 'img/');
 define("RUTA_PRINCIPAL", $rutaPrincipal);
 define("RUTA_TER", $rutaTer);
-define("USUARIO_AUTENTICAR", array('url' => $rutaPrincipal . '/usuario/autenticar', 'controlador' => 'UsuarioControlador', 'metodo' => 'autenticar'));
+define("USUARIO_AUTENTICAR", array('url' => $rutaPrincipal . 'PersonalPro/usuario/autenticar', 'controlador' => 'UsuarioControlador', 'metodo' => 'autenticar'));
 define("MENU_ADMINISTRADOR", array('url' => $rutaPrincipal . '/menu', 'controlador' => 'MenuControlador', 'metodo' => 'index'));
 define("USUARIO_INGRESAR", array('url' => $rutaPrincipal . '/usuario/iniciarsesion', 'controlador' => 'UsuarioControlador', 'metodo' => 'indexIniciar'));
 define("USUARIO_REGISTRAR", array('url' => $rutaPrincipal . '/usuario/registrar', 'controlador' => 'UsuarioControlador', 'metodo' => 'indexRegistrar'));
