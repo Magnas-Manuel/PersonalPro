@@ -4,8 +4,8 @@ $proyecto = '/PersonalPro/';
 $ruta = "/PersonalPro/vista/exito.php";
 define("CARPETA_PRINCIPAL", __DIR__);
 
-define("CARPETA_ARCHIVOS", $proyecto . 'archivos/');
-define("CARPETA_RECURSOS", $proyecto . 'vista/');
+define("CARPETA_ARCHIVOS",  'archivos/');
+define("CARPETA_RECURSOS", 'vista/');
 define("CARPETA_IMG", 'img/');
 define("RUTA_PRINCIPAL", $rutaPrincipal);
 define("RUTA_TER", $rutaTer);
