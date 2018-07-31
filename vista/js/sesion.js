@@ -1,3 +1,4 @@
+alert('hola mundo');
 var sesion = {
     init: function () {
         $('#IngresoLog ').on('click', sesion.inicio); //formulario InicioVista
