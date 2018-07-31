@@ -1,6 +1,6 @@
 <?php
 
-$rutaPrincipal = "/PersonalPro/index.php";
+$rutaPrincipal = "index.php";
 $rutaTer = "/PersonalPro/logout.php";
 require_once './autoload.php';
 require_once './ruta.php';
