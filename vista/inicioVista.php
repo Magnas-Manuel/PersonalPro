@@ -110,6 +110,7 @@
         </section>
 
          <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script > alert('hola'); </script>
         <script src="vista/assets/web/assets/jquery/jquery.min.js"></script>
         <script src="vista/assets/popper/popper.min.js"></script>
         <script src="vista/assets/tether/tether.min.js"></script>
