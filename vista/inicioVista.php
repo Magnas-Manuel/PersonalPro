@@ -17,7 +17,8 @@
         <link rel="stylesheet" href="vista/assets/dropdown/css/style.css">
         <link rel="stylesheet" href="vista/assets/theme/css/style.css">
         <link rel="stylesheet" href="vista/assets/mobirise/css/mbr-additional.css" type="text/css">
-        
+        <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+
 
 
 
