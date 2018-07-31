@@ -79,7 +79,7 @@
         </header>
 
          Bootstrap core JavaScript 
-        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="vista/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
          Plugin JavaScript 
