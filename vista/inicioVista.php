@@ -121,7 +121,7 @@
         <script src="/vista/assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
         <script src="/vista/assets/smoothscroll/smooth-scroll.js"></script>
         <script src="/vista/assets/theme/js/script.js"></script>
-        <script src="PersonalPro/vista/js/sesion.js" type="text/javascript"></script>
+        <script src="./vista/js/sesion.js" type="text/javascript"></script>
 
 
     </body>
