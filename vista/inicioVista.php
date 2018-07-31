@@ -111,17 +111,17 @@
 
          <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
         <script > alert('hola'); </script>
-        <script src="vista/assets/web/assets/jquery/jquery.min.js"></script>
-        <script src="vista/assets/popper/popper.min.js"></script>
-        <script src="vista/assets/tether/tether.min.js"></script>
-        <script src="vista/assets/bootstrap/js/bootstrap.min.js"></script>
-        <script src="vista/assets/dropdown/js/script.min.js"></script>
-        <script src="vista/assets/touchswipe/jquery.touch-swipe.min.js"></script>
-        <script src="vista/assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
-        <script src="vista/assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
-        <script src="vista/assets/smoothscroll/smooth-scroll.js"></script>
-        <script src="vista/assets/theme/js/script.js"></script>
-        <script src="vista/js/sesion.js" type="text/javascript"></script>
+        <script src="/vista/assets/web/assets/jquery/jquery.min.js"></script>
+        <script src="/vista/assets/popper/popper.min.js"></script>
+        <script src="/vista/assets/tether/tether.min.js"></script>
+        <script src="/vista/assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="/vista/assets/dropdown/js/script.min.js"></script>
+        <script src="/vista/assets/touchswipe/jquery.touch-swipe.min.js"></script>
+        <script src="/vista/assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+        <script src="/vista/assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+        <script src="/vista/assets/smoothscroll/smooth-scroll.js"></script>
+        <script src="/vista/assets/theme/js/script.js"></script>
+        <script src="/vista/js/sesion.js" type="text/javascript"></script>
 
 
     </body>
